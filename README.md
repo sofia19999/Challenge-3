@@ -17,8 +17,8 @@ The Employee Management Tool is a simple web application that allows users to co
 git clone https://github.com/sofia19999/Challenge-3/tree/main/Develop
 
 2. Navigate to the project directory: 
-cd Challenge-3
-then when in the  cd Develop 
+cd Challenge-3-
+then when in the Challenge-3 cd Develop 
 
 3. Open the `index.html` file:
 Open the index.html file in your web browser to run the application.
