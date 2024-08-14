@@ -6,7 +6,7 @@ The Employee Management Tool is a simple web application that allows users to co
 
 * Add Employees: Collect employee information such as first name, last name, and salary through prompts.
 * Display Employees: Show the list of employees in a dynamically generated HTML table.
-* Calc ulate Average Salary: Calculate and display the average salary of all employees in the console.
+* Calculate Average Salary: Calculate and display the average salary of all employees in the console.
 * Select Random Employee: Select and display a random employee from the list in the console.
 * Sort Employees: Employees are automatically sorted by last name before being displayed.
 
@@ -14,7 +14,7 @@ The Employee Management Tool is a simple web application that allows users to co
 
 1. Clone the repository: 
 
-git clone 
+git clone https://github.com/sofia19999/Challenge-3/tree/main/Develop
 
 2. Navigate to the project directory: 
 cd Challenge-3
@@ -59,5 +59,16 @@ A randomly selected employee in the console.
 
 ## Link to the Deployed Application
 
+http://127.0.0.1:5500/Develop/index.html
 
 
+
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Contributing
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## Acknowledgments
+This project was built as a simple exercise to practice JavaScript and DOM manipulation.
