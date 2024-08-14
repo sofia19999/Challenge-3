@@ -52,7 +52,7 @@ A randomly selected employee in the console.
 ![Employee Table](/Develop/assets/table.png)
 
 ### Average Salary and Random winner in Console
-![Average Salary](/Develop/assets/console%20and%20table%20view.png.png)
+![Average Salary](/Develop/assets/console%20and%20table%20view.png)
 
 
 
